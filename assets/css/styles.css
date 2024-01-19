@@ -1,0 +1,59 @@
+.body {
+    background-color: #1C2C44;
+}
+
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(#2DD4CD, #1C4E5A);
+    border-radius: 0px 0px 20px 20px;
+    padding-left: 50px;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    word-spacing: 7px;
+
+    color: white;
+}
+
+
+.nav--img {
+    width: 100px;
+}
+
+.title {
+    color: white;
+}
+
+.text-title {
+    font-family:'Black Ops One', system-ui;
+}
+
+
+.hero {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.cartaa {
+    display: flex;
+    justify-content: center;
+    background-color: #25406769;
+    margin-top: 7rem;
+    min-width: 35rem;
+}
+
+.login {
+    border-radius: 5rem;
+    border: #2DD4CD 1px solid;
+    margin-top: 2rem;
+}
+
+.input--form {
+    background: transparent;
+    border: none;
+    height: 100%;
+    padding: 5px;
+}
