@@ -31,7 +31,7 @@
                 </div>
                 <button class="button" type="submit">Ingresar</button>
                 <div class="item-register">
-                    <p>¿Aun no tienes cuenta? <a href="#">Registrate</a></p>
+                    <p class="letter-register">¿Aun no tienes cuenta? <a href="#">Registrate</a></p>
                 </div>
             </form>
         </div>
