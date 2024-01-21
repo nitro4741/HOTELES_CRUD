@@ -29,7 +29,7 @@
                 <div class="login">
                     <input class="input--form" type="text" placeholder="Contraseña" require>
                 </div>
-                <button class="button" type="submit">Ingresar</button>
+                <button class="boton" type="submit">Ingresar</button>
                 <div class="item-register">
                     <p class="letter-register">¿Aun no tienes cuenta? <a href="#">Registrate</a></p>
                 </div>
